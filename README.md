@@ -1,4 +1,4 @@
-# <Pre Work Study Guide>
+# Pre Work Study Guide
 
 ## Website used to help orginize notes for coding bootcamp
 
